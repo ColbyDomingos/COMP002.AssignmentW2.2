@@ -7,3 +7,9 @@
 // ###
 // ##
 // #
+let i = 1;
+for (i <= rows; i++){
+    console.log("#".repeat(i))
+}
+
+// Could be more triangular if i were to add more but tis still a triangle
